@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "47790464-EB66-442D-89DC-FE9713C7FF2E",
+  "do_objectID": "B8AA4FD8-1D54-4EA8-BCD7-C94553350699",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 320,
-    "x": 0,
-    "y": 168
+    "height": 86,
+    "width": 113,
+    "x": 116,
+    "y": 201
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,14 +25,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
-      "id": "3C212600-BD19-4073-8ABF-1C371092F999"
+      "id": "164EC4F0-DB1B-4D0F-AA62-26F0CD6646C2"
     }
   ],
-  "name": "Rectangle",
+  "name": "Rectangle 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,18 +40,26 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": false,
+      "lineCapStyle": 1,
+      "lineJoinStyle": 1
+    },
     "borders": [
       {
         "_class": "border",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
         "thickness": 1
       }
@@ -63,9 +71,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4156862745098036,
-          "green": 0.0274509803921569,
-          "red": 0.8862745098039215
+          "blue": 0.4583268871686142,
+          "green": 0.4583268871686142,
+          "red": 0.5816060799319728
         },
         "fillType": 0,
         "isEnabled": true,
